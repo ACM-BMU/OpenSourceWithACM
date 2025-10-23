@@ -1,3 +1,5 @@
+int main(){
+    printf("Ready for Gitquest");
 #include<stdio.h>
 int maint(){
 
