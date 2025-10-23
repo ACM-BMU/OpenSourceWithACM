@@ -1,3 +1,4 @@
+#include<stdio.h>
 int main()
 {
     printf("ready for GITQUEST");
@@ -5,7 +6,7 @@ int main()
     printf("Ready for Gitquest");
 
 
-    printf("Vikas Jha:MAZA AA GAYA xD");
+        printf("Vikas Jha:MAZA AA GAYA xD");
 
 
 
